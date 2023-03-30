@@ -1,0 +1,40 @@
+body {
+    background-image: url(../images/17973908.jpg);
+    background-size: cover;
+}
+
+div {
+    
+    display: inline-block;
+   
+}
+
+ul li  {
+    list-style-type: none;
+    overflow: hidden;
+    display: inline-block;
+    margin: 10px;
+    padding: 10;
+    
+    color: #333333;
+}
+a {
+    text-align: right;
+}
+div img {
+    background-color: crimson;
+    background-repeat: no-repeat;
+    margin: 13px;
+    width: 350px;
+    height: 200.31px;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+}
+
+a{
+    color: black;
+}
